@@ -1,5 +1,5 @@
 # ToDoListTest
-## _Author: José Escobedo- Practice Fetch
+## _Author: José Escobedo- Practice 
 
 -------
 
